@@ -10,7 +10,13 @@ body {
     position: relative;
     font-weight: 400px;
 }
-
+.getnow{
+    color: rgb(255, 255, 255);
+    border: 1px solid black;
+    background-color: rgb(216, 81, 3);
+    font-size: 25px;
+    border-radius: 4px;
+}
 ul li {
     list-style: none;
 }
